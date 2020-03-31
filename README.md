@@ -5,3 +5,7 @@
 # day1
 
 TypeScript安装部署
+
+# day2
+
+TypeScript基本类型
