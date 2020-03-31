@@ -8,6 +8,9 @@
     "sub_directories": [
         {
             "name": "day1"
+        },
+        {
+            "name": "day2"
         }
     ],
     "tags": [
