@@ -7,31 +7,31 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "day1"
+            "name": "1.安装部署"
         },
         {
-            "name": "day2"
+            "name": "2.基本类型"
         },
         {
-            "name": "day3"
+            "name": "3.变量"
         },
         {
-            "name": "day4"
+            "name": "4.接口"
         },
         {
-            "name": "day5"
+            "name": "5.函数"
         },
         {
-            "name": "day6"
+            "name": "6.文字类型"
         },
         {
-            "name": "day7"
+            "name": "7.交叉和合并类型"
         },
         {
-            "name": "day8"
+            "name": "8.类"
         },
         {
-            "name": "day9"
+            "name": "9.泛型"
         }
     ],
     "tags": [
